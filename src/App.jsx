@@ -12,9 +12,6 @@ function App() {
           This website is under construction. Stay tuned
         </p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }
