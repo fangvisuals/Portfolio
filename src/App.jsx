@@ -9,7 +9,7 @@ function App() {
       <h1>Portfolio</h1>
       <div className="card">
         <p>
-          This website is under construction. Stay tuned
+          This website is under construction. Stay tuned.
         </p>
       </div>
     </>
